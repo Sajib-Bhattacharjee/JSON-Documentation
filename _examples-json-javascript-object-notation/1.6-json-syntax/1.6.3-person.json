@@ -1,8 +1,8 @@
 { 
-  "name": "Dinanath",
-  "age": 50,
-  "country": "India",
+  "name": "Sajib Bhattacharjee",
+  "age": 21,
+  "country": "Bangladesh",
   "height": 5.6,
-  "color": "Black-Medium",
-  "married": true
+  "color": "Medium-White",
+  "married": false
 }
